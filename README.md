@@ -25,7 +25,7 @@ The Number Classifier API takes a number as input and returns interesting mathem
 
 #### Example Request
 ```
-GET https://your-deployed-url.com/api/classify-number?number=371
+GET https://your-deployed-url.com/api/classify-number?number=1634
 ```
 
 #### Example Response (200 OK)
@@ -80,8 +80,8 @@ hng-number-classifier-api/
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/number-classifier-api.git
-   cd number-classifier-api
+   git clone https://github.com/Ken-Obieze/hng-number-classifier-api.git
+   cd hng-number-classifier-api
    ```
 
 2. **Install dependencies**
