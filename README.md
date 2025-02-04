@@ -25,7 +25,7 @@ The Number Classifier API takes a number as input and returns interesting mathem
 
 #### Example Request
 ```
-GET https://your-deployed-url.com/api/classify-number?number=1634
+GET https://hng-number-classifier-api.onrender.com/api/classify-number?number=1634
 ```
 
 #### Example Response (200 OK)
